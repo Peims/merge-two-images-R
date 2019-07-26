@@ -1,3 +1,5 @@
+
+#created by Maosong Pei
 install.packages('magick')
 library('magick')
 
